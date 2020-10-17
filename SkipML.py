@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score,f1_score
 
-class QuickML:
+class SkipML:
     def __init__(self):
         self.model = None
 
